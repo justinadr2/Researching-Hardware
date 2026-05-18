@@ -2,4 +2,4 @@
 
 ### Tested on i5-1135G7
 
-** Each folder is a different program **
+**Each folder is a different program**
